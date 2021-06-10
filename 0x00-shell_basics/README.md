@@ -1,0 +1,1 @@
+This script is printing the absolute to the current working directory
